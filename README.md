@@ -5,7 +5,7 @@ Because apparently watching tutorials wasn’t painful enough, I decided to actu
 
 ---
 
-# 📚 Repository Overview
+#  Repository Overview
 
 This repository contains Jupyter notebooks covering:
 
@@ -20,7 +20,7 @@ Each notebook is created as part of my practical learning journey in Data Scienc
 
 ---
 
-# 🛠️ Tech Stack Used
+#  Tech Stack Used
 
 * Python
 * Pandas
@@ -32,17 +32,17 @@ Each notebook is created as part of my practical learning journey in Data Scienc
 * Jupyter Notebook
 * Google Colab
 
----
 
-# 📂 Project Files Description
+
+# Project Files Description
 
 ## 1. Encoding on Employee Dataset.ipynb
 
-### 📌 Description
+###  Description
 
 This notebook focuses on handling **categorical data encoding techniques** using an employee dataset.
 
-### 🔍 Concepts Covered
+###  Concepts Covered
 
 * Label Encoding
 * One Hot Encoding
@@ -50,7 +50,7 @@ This notebook focuses on handling **categorical data encoding techniques** using
 * Handling categorical columns
 * Feature preparation for Machine Learning models
 
-### 🧰 Libraries Used
+###  Libraries Used
 
 * Pandas
 * NumPy
@@ -58,19 +58,19 @@ This notebook focuses on handling **categorical data encoding techniques** using
 * Matplotlib
 * Seaborn
 
-### 🎯 Learning Outcome
+###  Learning Outcome
 
 Learned how machine learning models require numerical input and how encoding converts categorical data into usable numerical formats.
 
----
+
 
 ## 2. Exploratory data analysis on diabetes dataset.ipynb
 
-### 📌 Description
+###  Description
 
 This notebook performs **Exploratory Data Analysis (EDA)** on a diabetes dataset to understand data patterns, relationships, and insights before model building.
 
-### 🔍 Concepts Covered
+### Concepts Covered
 
 * Dataset understanding
 * Shape and structure analysis
@@ -80,7 +80,7 @@ This notebook performs **Exploratory Data Analysis (EDA)** on a diabetes dataset
 * Data distribution visualization
 * Insight generation using charts
 
-### 📊 Visualization Techniques
+###  Visualization Techniques
 
 * Histograms
 * Count plots
@@ -88,7 +88,7 @@ This notebook performs **Exploratory Data Analysis (EDA)** on a diabetes dataset
 * Box plots
 * Scatter plots
 
-### 🎯 Learning Outcome
+###  Learning Outcome
 
 Learned how to explore datasets, identify trends, detect anomalies, and prepare meaningful insights from healthcare data.
 
@@ -96,11 +96,11 @@ Learned how to explore datasets, identify trends, detect anomalies, and prepare 
 
 ## 3. Preprocessing on employee dataset.ipynb
 
-### 📌 Description
+###  Description
 
 This notebook demonstrates various **data preprocessing techniques** applied to an employee dataset.
 
-### 🔍 Concepts Covered
+### Concepts Covered
 
 * Data cleaning
 * Handling missing values
@@ -110,26 +110,26 @@ This notebook demonstrates various **data preprocessing techniques** applied to 
 * Feature preparation
 * Dataset inspection
 
-### 🧰 Libraries Used
+###  Libraries Used
 
 * Pandas
 * NumPy
 * Matplotlib
 * Seaborn
 
-### 🎯 Learning Outcome
+###  Learning Outcome
 
 Learned how preprocessing improves data quality and prepares raw datasets for analytics and machine learning tasks.
 
----
+
 
 ## 4. Snowflake_CLoud_Integration_with_Ml_Models.ipynb
 
-### 📌 Description
+###  Description
 
 This notebook demonstrates integration between **Snowflake Cloud Database** and Python-based Machine Learning workflows.
 
-### 🔍 Concepts Covered
+###  Concepts Covered
 
 * Snowflake database connection
 * Secure credential usage
@@ -138,26 +138,26 @@ This notebook demonstrates integration between **Snowflake Cloud Database** and 
 * Converting database results into DataFrames
 * Preparing cloud-hosted data for ML operations
 
-### ☁️ Technologies Used
+###  Technologies Used
 
 * Snowflake Connector for Python
 * Pandas
 * NumPy
 * Google Colab
 
-### 🎯 Learning Outcome
+###  Learning Outcome
 
 Learned how cloud databases can be integrated with analytics and machine learning pipelines for real-world enterprise applications.
 
----
+
 
 ## 5. Visualizing data on restaurant dataset.ipynb
 
-### 📌 Description
+###  Description
 
 This notebook focuses on **data visualization techniques** using a restaurant dataset.
 
-### 🔍 Concepts Covered
+###  Concepts Covered
 
 * Dataset merging
 * Visual analytics
@@ -165,7 +165,7 @@ This notebook focuses on **data visualization techniques** using a restaurant da
 * Comparative visualizations
 * Customer and restaurant data understanding
 
-### 📊 Visualization Techniques
+###  Visualization Techniques
 
 * Bar charts
 * Pie charts
@@ -174,13 +174,13 @@ This notebook focuses on **data visualization techniques** using a restaurant da
 * Heatmaps
 * Distribution plots
 
-### 🎯 Learning Outcome
+###  Learning Outcome
 
 Learned how visual storytelling helps in understanding business datasets and identifying useful insights from restaurant data.
 
----
 
-# 🚀 Key Skills Practiced
+
+#  Key Skills Practiced
 
 * Data Cleaning
 * Data Transformation
@@ -191,9 +191,9 @@ Learned how visual storytelling helps in understanding business datasets and ide
 * Machine Learning Data Preparation
 * SQL Query Handling
 
----
 
-# 📈 Purpose of This Repository
+
+#  Purpose of This Repository
 
 This repository is created to:
 
@@ -205,9 +205,9 @@ This repository is created to:
 
 Humanity invented datasets just to spend hours cleaning commas, null values, and duplicate rows. Somehow this became an industry.
 
----
 
-# 🔮 Future Improvements
+
+#  Future Improvements
 
 Planned future additions:
 
@@ -218,9 +218,9 @@ Planned future additions:
 * Real-time data analytics projects
 * End-to-end deployment projects
 
----
 
-# 🤝 Connect & Learn
+
+#  Connect & Learn
 
 This repository represents my continuous learning journey in:
 
